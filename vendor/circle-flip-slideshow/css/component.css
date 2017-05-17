@@ -137,12 +137,6 @@ ul.fc-slides {
 	padding: 0;
 }
 
-ul.fc-slideshow{
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
 ul.fc-slides li {
 	display: none;
 }

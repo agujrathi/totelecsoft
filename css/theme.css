@@ -2497,11 +2497,10 @@ section.section-custom-map-2 section.section {
 		background: none;
 	}
 
-	.project-image {
-		margin-top: 0;
-		
+	.home-concept .project-image {
+		margin: 20px auto 0 auto;
 	}
-		
+
 	.home-concept .process-image {
 		margin-top: 0;
 		padding-bottom: 25px;
@@ -2521,12 +2520,8 @@ section.section-custom-map-2 section.section {
 	}
 
 	.home-concept .fc-slideshow img {
-		max-height: 300px;
-		max-width: 300px;
-	}
-	.fc-slideshow {
-		max-height: 300px;
-		max-width: 300px;
+		max-height: 145px;
+		max-width: 145px;
 	}
 }
 /* Page 404 */
